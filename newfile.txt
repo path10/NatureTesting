@@ -1,1 +1,5 @@
-Hello
+\(([^()]*?)<link rid="fig(?<citation1Id>[0-9]{1,})">((?<citation1Number>[0-9]+)
+|((?<citation1Number>[0-9]+)(?<citationPart>[a-z]))|(?<citationPart>[a-z]))</link>
+( )?(?<citationSeparator>(?<Separator>(,)?( )(and|und|&)( )))( )?<link rid="fig(?<citation2Id>[0-9]{1,})">
+((?<citation2Number>[0-9]+)|((?<citation2Number>[0-9]+)(?<citationPart>[a-z]))|(?<citationPart>[a-z]))</link>
+([^()]*?)\)

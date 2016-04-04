@@ -1,2 +1,6 @@
 jhsdhf skldfjklsjd kjasdklja sjdka sdkjlasjdkljaskldjtest this out
+<<<<<<< HEAD
 amit
+=======
+huzaifa
+>>>>>>> branch1
